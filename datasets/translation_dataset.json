@@ -1,0 +1,597 @@
+[
+  {
+    "id": "3f462804-adac-4243-88f7-2ab282041fd8",
+    "english": "The traditional Maldivian houses are fascinating.",
+    "dhivehi": "ދިވެހިންގެ ސަޤާފީ ގެތައް ވަރަށް ޝައުޤުވެރި އެވެ."
+  },
+  {
+    "id": "80b47da5-4317-43ac-bada-260ca3d94adc",
+    "english": "I need to report a stolen item.",
+    "dhivehi": "ވަގަށް ނަގާފައިވާ އެއްޗެއްގެ މައުލޫމާތު ދޭން އަހަރެން ބޭނުންވެއެވެ."
+  },
+  {
+    "id": "4d29458c-2eec-4e3f-b073-cf3ceeab92a9",
+    "english": "The local handicrafts are very unique.",
+    "dhivehi": "ދިވެހިވަންތަ އަތްތެރި މަސައްކަތްތައް ވަރަށް ތަފާތެވެ."
+  },
+  {
+    "id": "d43f6974-ca71-43ae-882e-e9cd2441ec07",
+    "english": "I'm interested in learning about coral restoration projects.",
+    "dhivehi": "މުރަކަ އާލާކުރުމުގެ މަޝްރޫޢުތަކާ ބެހޭ ގޮތުން ދަސްކުރަން އަހަރެންގެ ޝައުޤުވެރިވަމެވެ."
+  },
+  {
+    "id": "d3d39093-cc22-45ed-90db-b0fe42c75752",
+    "english": "Can you show me how to play the bodu beru?",
+    "dhivehi": "ބޮޑުބެރު ޖަހާ ގޮތް ދައްކައިދެވިދާނެތޯ؟"
+  },
+  {
+    "id": "61dccab4-f840-43da-87b5-e27ea6d354ff",
+    "english": "The traditional lacquer work is beautiful.",
+    "dhivehi": "ދިވެހި ލާޖެހުމުގެ މަސައްކަތް ވަރަށް ރީއްޗެވެ."
+  },
+  {
+    "id": "7b903c4d-3c6e-48fd-aa06-12091d08c1e8",
+    "english": "I need to buy some reef-safe sunscreen.",
+    "dhivehi": "އަހަރެން މުރަކަތަކަށް ގެއްލުން ނުވާ ސަންސްކްރީނެއް ގަންނަން ބޭނުންވޭ."
+  },
+  {
+    "id": "56b13dda-7aa9-4573-a135-082d1670b25c",
+    "english": "I'd like to learn about traditional Maldivian weddings.",
+    "dhivehi": "އަހަރެން ބޭނުންވޭ ދިވެހިވަންތަ ކައިވެނީގެ ހަފްލާތަކާއި ބެހޭ ގޮތުން ދަސްކުރަން."
+  },
+  {
+    "id": "ccaadcf3-af77-4b4e-b177-8c5d5f3eb5f7",
+    "english": "Can you recommend a good spot for watching the sunrise?",
+    "dhivehi": "އިރުއަރާ ތަން ބެލުމަށް ރަނގަޅު ތަނެއް ބުނެދެވިދާނެތަ؟"
+  },
+  {
+    "id": "e6b4e5e0-b0b8-458d-9846-5ea771f2643a",
+    "english": "The traditional boat building techniques are impressive.",
+    "dhivehi": "ދިވެހިންގެ ސަޤާފީ ދޯނި ބަނުމުގެ ހުނަރުވރިކަން ވަރަށް ފުރިހަމަ."
+  },
+  {
+    "id": "086812ba-1506-4857-8ad8-b49c28ec50db",
+    "english": "I need to file a police report.",
+    "dhivehi": "އަހަރެން ފުލުހުންނަށް ރިޕޯޓެއް ހުށަހަޅަން ބޭނުން."
+  },
+  {
+    "id": "09a2004d-584d-4a8a-b683-d6e894ee2391",
+    "english": "I'm interested in learning about traditional medicine.",
+    "dhivehi": "އަހަރެން ދިވެހި ބޭސްވެރިކަމާ ބެހޭ ގޮތުން ދަސްކުރަން ޝައުޤުވެރިވޭ."
+  },
+  {
+    "id": "977b84d5-0902-4ef1-b5de-30cf7818e244",
+    "english": "Can you show me how to open a coconut?",
+    "dhivehi": "ކުރުބާ ފަޅާނެ ގޮތް ދައްކައިދެވިދާނެތޯ؟"
+  },
+  {
+    "id": "9153cd9e-d3ab-4f39-b255-124625a8089f",
+    "english": "I need to buy some aloe vera for my sunburn.",
+    "dhivehi": "އިރުން ފިހުނު ތަނަށް އެލޮވޭރާ ސަންސްރީނެއް ގަންނަން ބޭނުންވޭ."
+  },
+  {
+    "id": "6d466077-3856-4f67-98e6-99d271e78206",
+    "english": "The local fishing methods are fascinating.",
+    "dhivehi": "ދިވެހިވަންތަ މަސްވެރިކަމުގެ ވއްޓަފާޅި ވަރަށް ޝައުޣުވެރި."
+  },
+  {
+    "id": "96229f30-e3c8-48b4-aacc-65acd577d601",
+    "english": "I'm interested in learning about marine conservation.",
+    "dhivehi": "އަހަރެން ކަނޑުގެ ދިރުންތައް ހިމާޔަތްކުރުމާ ބެހޭ ގޮތުން ދަސްކުރަން ބޭނުން."
+  },
+  {
+    "id": "2e38a799-a12d-41f8-8a96-cb913bae82a4",
+    "english": "This is a very big box.",
+    "dhivehi": "މިއީ ވަރަށް ބޮޑު ފޮށްޓެއް"
+  },
+  {
+    "id": "119fc52a-9962-447e-9c72-137107f27a57",
+    "english": "I need to extend my visa.",
+    "dhivehi": "އަހަރެންގެ ވިސާގެ މުއްދަތު އިތުރުކުރަން ޖެހޭ."
+  },
+  {
+    "id": "20606585-7451-4bcc-bf43-24b584a8fc07",
+    "english": "The tropical fruits here are delicious.",
+    "dhivehi": "މިތާގެ ހޫނު މާހައުލުގައި އުފެދޭ މޭވާތައް ވަރަށް މީރު."
+  },
+  {
+    "id": "2d38e732-b061-46dd-b29a-c91e8c52baa7",
+    "english": "President Muiz inaugurated the Airport. ",
+    "dhivehi": "ރައީސް މުއިއްޒު އެއަރޕޯޓް ހުޅުއްވައި ދެއްވައިފި"
+  },
+  {
+    "id": "17553a24-de0b-443d-a7bf-ed3a5d018840",
+    "english": "The seashells on this beach are beautiful.",
+    "dhivehi": "މި ގޮނޑުދޮށުގައި ހުރި ބޮލިތައް ވަރަށް ރީތި."
+  },
+  {
+    "id": "946d4189-ceea-439f-a968-be973e9b15c0",
+    "english": "I'd like to try toddy tapping.",
+    "dhivehi": "އަހަރެން ބޭނުން ރާ ނަގަން ދަސްކޮށްލަން."
+  },
+  {
+    "id": "ff576bfd-fcde-48d8-a845-9ffbf165dc04",
+    "english": "Hotel with the best location near the Kaaba.",
+    "dhivehi": "ކައުބާއާއި ގާތުން ހުރި އެންމެ ރަގަނޅު ހޮޓާ"
+  },
+  {
+    "id": "745997cd-17af-4c8f-a305-c834470b8076",
+    "english": "I need to report a lost item.",
+    "dhivehi": "އެއްޗެއް ގެއްލިގެން އޭގެ ރިޕޯޓެއް ކުރަން ބޭނުންވޭ"
+  },
+  {
+    "id": "cf57c5b7-7044-4fb5-8d51-8b4f9452f7ea",
+    "english": "The mangroves are important for the ecosystem.",
+    "dhivehi": "ކަނޑޫފާ ތިމާވެއްޓަށް ވަރަށް މުހިންމު."
+  },
+  {
+    "id": "9771f63c-d020-4118-93b4-e217e0673474",
+    "english": "The food here is the best",
+    "dhivehi": "ތިނަގުގެ ކާއެއްވެހި އެއްމެ މީރީ"
+  },
+  {
+    "id": "fcae4d2b-1217-4b6e-9b56-5a3960489461",
+    "english": "The island's water supply has been disrupted.",
+    "dhivehi": "ރަށުގެ ފެން ސަޕްލައިއަށް ދަތިތަކެއް ކުރިމަތިވެއްޖެ."
+  },
+  {
+    "id": "22b58a99-6618-401e-a071-10a133179d6e",
+    "english": "I need to buy some postcards.",
+    "dhivehi": "އަހަރެން ޕޯސްޓްކާޑު ގަންނަން ޖެހޭ."
+  },
+  {
+    "id": "a5e870a5-2563-4740-a149-6883278064b5",
+    "english": "The local children are very friendly.",
+    "dhivehi": "ރަށުގެ ކުޑަކުދިން ވަރަށް ރައްޓެހި."
+  },
+  {
+    "id": "ac1040b8-65a9-452f-9211-ec3ff65d2c7a",
+    "english": "I'm looking for coral jewelry.",
+    "dhivehi": "އަހަރެން ހޯދަނީ މުރަކައިން ހަދާފައި ހުންނަ ގަހަނާ."
+  },
+  {
+    "id": "7dddc644-d1dd-4f49-9510-abdc1504bf2b",
+    "english": "Can you teach me how to count in Dhivehi?",
+    "dhivehi": "ދިވެހިން ގުނާނެ ގޮތް ދަސްކޮށް ދެވިދާނެތޯ؟"
+  },
+  {
+    "id": "c6394f8d-52a0-462c-891a-07ba89cf3999",
+    "english": "The seaplane ride was amazing.",
+    "dhivehi": "ސީޕްލޭން ދަތުރު ވަރަށް ފައްކާ"
+  },
+  {
+    "id": "9c166058-abed-418f-ae54-4a6bc55d8ac5",
+    "english": "Our religion in Islam",
+    "dhivehi": "އަހަރުމެންގެ ދީނަކީ އިސްލާމް ދީނެވެ."
+  },
+  {
+    "id": "44411825-e4cf-4652-a3b2-4774f846cad5",
+    "english": "Is there a curfew on the island?",
+    "dhivehi": "ރަށުގައި ކަރްފިއުއެއް އެބައޮތްތޯ؟"
+  },
+  {
+    "id": "673a82c7-df82-48b0-b5a2-22a20e8dba90",
+    "english": "The watermelon is very sweet.",
+    "dhivehi": "ކަރާ ވަރަށް ފޮނި."
+  },
+  {
+    "id": "28197c4c-7c63-4b25-8cb5-ef9f3f4aa1c4",
+    "english": "I'm looking for a traditional Maldivian dress.",
+    "dhivehi": "އަހަރެން ހޯދަނީ ދިވެހި ލިބާހެއް."
+  },
+  {
+    "id": "0842c36d-0980-4c26-88b5-1abc6d9dbcd3",
+    "english": "I m proud to be a Muslim.",
+    "dhivehi": "މުސްލިމަކަށް ވީތީ ފަޚުރުވެރިވަން"
+  },
+  {
+    "id": "14160f18-ad49-4cb8-9834-f67d52e54c5d",
+    "english": "I've lost my room key.",
+    "dhivehi": "އަހަރެންގެ ކޮޓަރީގެ ތަޅުދަނޑި ގެއްލިއްޖެ."
+  },
+  {
+    "id": "a1ed649b-435e-4951-9fe3-170551f8b25c",
+    "english": "The local market is very colorful.",
+    "dhivehi": "ރަށު މާރުކޭޓް ވަރަށް ކުލަގަދަ."
+  },
+  {
+    "id": "261cedb1-77df-403a-b3c2-d68f2e2a452a",
+    "english": "I'd like to learn some basic Dhivehi phrases.",
+    "dhivehi": "އަހަރެން ބޭނުން އަސާސީ ދިވެހި ޢިބާރާތްތަކެއް ދަސްކޮށްލަން."
+  },
+  {
+    "id": "45fbde88-b973-47f3-98b4-b6893c91cbf8",
+    "english": "The turtle nesting season has begun.",
+    "dhivehi": "ވެލާ ބިސްއަޅާ މޫސުން ފެށިއްޖެ."
+  },
+  {
+    "id": "8adbb073-8390-4535-b7d1-6e2897846c08",
+    "english": "Hajj is compulsory upon each Muslim once in their life",
+    "dhivehi": "ހައްޖަކީ މުސްލިމުންގެ މައްޗަށް އުމުރުން އެއްފަހަރު އަދާކުރުން ފަރުޞުވެގެންވާ އަޅުކަމެއް"
+  },
+  {
+    "id": "4a3869ee-24c9-4ac1-b8df-2b4505fa465e",
+    "english": "The beach is closed due to strong currents.",
+    "dhivehi": "ގަދަ އޮއިވަރުގެ ސަބަބުން ގޮނޑުދޮށް ވަނީ ބަންދުކޮށްފައި."
+  },
+  {
+    "id": "68b35f6d-78f6-4e09-8ea5-886aee455130",
+    "english": "Can you call a taxi for me?",
+    "dhivehi": "އަހަރެންނަށް ޓެކްސީއެއް ގުޅައިދެވިދާނެތޯ؟"
+  },
+  {
+    "id": "ede7c850-0b67-4529-806c-0066529a1b69",
+    "english": "The ferry schedule has changed.",
+    "dhivehi": "ފެރީގެ ތާވަލަށް ބަދަލު އައިސްފި."
+  },
+  {
+    "id": "55154f43-13fb-4a18-9f0f-4da2feb07e16",
+    "english": "Is tap water safe to drink?",
+    "dhivehi": "ސަޕްލައި ފެން ފެން ބުއިމަށް ރައްކާތެރިތޯ؟"
+  },
+  {
+    "id": "642f4932-eaf1-4e4b-940f-eb53afe6b90b",
+    "english": "The mosquitoes are very bad here.",
+    "dhivehi": "މިތާ މަދިރި ވަރަށް ގިނަ."
+  },
+  {
+    "id": "5f1b8d4e-8583-4450-80ad-fb191876a61c",
+    "english": "I'm looking for handmade crafts.",
+    "dhivehi": "އަހަރެން މިހޯދަނީ އަތުން ހަދާފައި ހުންނަ ތަކެތި."
+  },
+  {
+    "id": "c54936ce-b822-454d-981f-b41b768346d0",
+    "english": "Can you recommend a good diving spot?",
+    "dhivehi": "ރަނގަޅު ޑައިވިންގ ސްޕޮޓެއް ބުނެދެވިދާނެތޯ؟"
+  },
+  {
+    "id": "752602f0-7ce5-45b0-8fd0-0c66068709c4",
+    "english": "I need a new SIM card for my phone.",
+    "dhivehi": "އަހަރެންގެ ފޯނަށް އައު ސިމް ކާޑެއް ބޭނުންވޭ."
+  },
+  {
+    "id": "982751bc-54e1-4536-9e51-1b7a6002ff97",
+    "english": "The fish market is very busy today.",
+    "dhivehi": "މިއަދު މަސްމާރުކޭޓް ވަރަށް ބިޒީ."
+  },
+  {
+    "id": "60b54b8b-364a-48ec-a2c5-a4ed5d3d4e07",
+    "english": "What time is check-out?",
+    "dhivehi": "ޗެކްއައުޓް ވަގުތަކީ ކޮބާ؟"
+  },
+  {
+    "id": "41daf9b3-2f26-4b3c-8931-8f2565ad0c0e",
+    "english": "I'd like to book a spa treatment.",
+    "dhivehi": "އަހަރެން ބޭނުން ސްޕާ ޓްރީޓްމަންޓެއް ބުކް ކޮށްލަން."
+  },
+  {
+    "id": "790bbe1e-6e22-41bb-a9ca-b5e6cfeb8532",
+    "english": "The room key is not working.",
+    "dhivehi": "ކޮޓަރީގެ ތަޅުދަނޑި މަސައްކަތެއް ނުކުރޭ."
+  },
+  {
+    "id": "75cef9f2-5d6f-497f-b97f-39cf04a2465b",
+    "english": "Where's the nearest ATM?",
+    "dhivehi": "އެންމެ ކައިރީގައި ހުރި އޭޓީއެމްއަކީ ކޮބާ؟"
+  },
+  {
+    "id": "d7fe7791-dc85-4994-8981-45ef868a2817",
+    "english": "I'm allergic to seafood.",
+    "dhivehi": "އަހަރެންނަކީ ކަނޑުމަހަށް އެލަރޖީ ހުންނަ މީހެއް."
+  },
+  {
+    "id": "3942ac7c-6afc-4bf9-8f6d-c0ccbd9ba4e3",
+    "english": "Can you speak more slowly, please?",
+    "dhivehi": "ތަންކޮޅެއް ލަހުން ވާހަކަދައްކައިދެވިދާނެތޯ؟"
+  },
+  {
+    "id": "c6839a8a-b92b-4a11-b6fb-0c24a0594fff",
+    "english": "The taxi driver got lost.",
+    "dhivehi": "ޓެކްސީ ޑްރައިވަރަށް މަގު ގެއްލިއްޖެ."
+  },
+  {
+    "id": "1fe24950-d1d9-4d95-a3e9-877748ec0bba",
+    "english": "I'm interested in Maldivian history.",
+    "dhivehi": "އަހަރެން ދިވެހި ތާރީޚަށް ޝައުޤުވެރިވޭ."
+  },
+  {
+    "id": "a7d0e473-1fcf-40aa-a457-a5830f0eae85",
+    "english": "Is there a laundry service available?",
+    "dhivehi": "ދޮވެ އިސްތިރި ކޮށްދޭ ޚިދުމަތް ލިބެން އެބަހުރިތޯ؟"
+  },
+  {
+    "id": "a254f893-4462-4bf0-9b81-fbe00ded78c9",
+    "english": "The waves are too high for swimming.",
+    "dhivehi": "ފެތޭވަރަށްވުރެން ރާޅުތައް ވަނީ މާ ބޮޑުވެފައި."
+  },
+  {
+    "id": "e4f01457-fb96-41ea-9528-2d567cf6f483",
+    "english": "What's the local specialty dish?",
+    "dhivehi": "މިތާނގެ ޚާއްޞަ ކާނާއަކީ ކޮބާ؟"
+  },
+  {
+    "id": "52dc28ce-ce04-4a9f-af30-241f3bb17a11",
+    "english": "I need to see a doctor.",
+    "dhivehi": "އަހަރެން ޑޮކްޓަރަކަށް ދައްކަން ޖެހޭ."
+  },
+  {
+    "id": "68435ea5-055e-485e-934d-ea1b6d4463f4",
+    "english": "The mosque is closed for renovations.",
+    "dhivehi": "މިސްކިތް ވަނީ މަރާމާތު ކުރުމަށްޓަކައި ބަންދުކޮށްފައި."
+  },
+  {
+    "id": "cd013e0e-ecce-45fa-91b5-a9b79225b173",
+    "english": "Can I have the Wi-Fi password?",
+    "dhivehi": "ވައިފައި ޕާސްވޯޑު ލިބިދާނެތޯ؟"
+  },
+  {
+    "id": "5d4972aa-f8cf-468c-bd12-a52155f0439c",
+    "english": "The air conditioning is not working.",
+    "dhivehi": "އެއަރ ކޮންޑިޝަން މަސައްކަތެއް ނުކުރޭ."
+  },
+  {
+    "id": "83cb4839-42f3-4889-884e-0f7b86e14740",
+    "english": "Where can I exchange money?",
+    "dhivehi": "ފައިސާ ބަދަލު ކުރެވޭނީ ކޮންތާކު؟"
+  },
+  {
+    "id": "e87a4581-43be-4080-ab59-4bcd5c7ac988",
+    "english": "I'm vegetarian.",
+    "dhivehi": "އަހަރެންނަކީ ވެޖިޓޭރިއަނެކެވެ."
+  },
+  {
+    "id": "0409c528-20f5-4918-b0f2-bf78bfcf9db8",
+    "english": "The sunset is beautiful.",
+    "dhivehi": "އިރުއޮއްސޭތަން ވަރަށް ރީތި."
+  },
+  {
+    "id": "5be74ef6-c19b-41bc-8047-9f4b90238021",
+    "english": "Can you take a photo of us?",
+    "dhivehi": "އަހަރެމެންގެ ފޮޓޯއެއް ނަގައިދެވިދާނެތޯ؟"
+  },
+  {
+    "id": "a76f3696-0647-4b9f-8cfe-e5e4e0a0aeb4",
+    "english": "I'd like to rent a bicycle.",
+    "dhivehi": "އަހަރެން ބޭނުން ސައިކަލެއް ކުއްޔަށް ހިފަން."
+  },
+  {
+    "id": "053c6d7b-a41f-4e3b-8013-b89ffe543945",
+    "english": "The coral reefs are amazing.",
+    "dhivehi": "މުރަކަތައް ވަރަށް ރީތި."
+  },
+  {
+    "id": "bfd48b4d-ec31-4fa6-9cc9-beb400f558c0",
+    "english": "Do you accept credit cards?",
+    "dhivehi": "ކްރެޑިޓް ކާޑު ބަލައިގަންނަންތޯ؟"
+  },
+  {
+    "id": "f9f18a0a-cad2-449e-a466-327322bbe9f9",
+    "english": "I lost my passport.",
+    "dhivehi": "އަހަރެންގެ ޕާސްޕޯޓު ގެއްލިއްޖެ."
+  },
+  {
+    "id": "4ed472c3-6cc1-4e61-9640-529ebb67b6ab",
+    "english": "The water is crystal clear.",
+    "dhivehi": "ފެން ވަރަށް ސާފު."
+  },
+  {
+    "id": "aa7173bf-a2ff-4e63-9751-5f499f1ed054",
+    "english": "What time does the shop open?",
+    "dhivehi": "ފިހާރަ ހުޅުވަނީ ކިހާއިރަކު؟"
+  },
+  {
+    "id": "fe3ea67c-cd43-4b3c-8af3-c0c057b240df",
+    "english": "The internet connection is very slow.",
+    "dhivehi": "އިންޓަނެޓް ކަނެކްޝަން ވަރަށް ލަހެވެ."
+  },
+  {
+    "id": "8b0bdf61-4dec-4aa5-a673-102f7e6b16c4",
+    "english": "How long have you been living here?",
+    "dhivehi": "ކަލޭގެ މިތާ ދިރިއުޅެމުން ދާތާ ކިހާ ދުވަހެއް ވެއްޖެ؟"
+  },
+  {
+    "id": "23745c61-a8a3-4cb9-bd34-c39b5926c163",
+    "english": "I need to buy some sunscreen.",
+    "dhivehi": "އަހަރެން ސަންސްކްރީން ގަންނަން ޖެހޭ."
+  },
+  {
+    "id": "7b66ff5e-f7b9-48f6-93a8-e94df7e8b20f",
+    "english": "The boat leaves at 3 PM.",
+    "dhivehi": "ދޯނި ފުރާނީ ހަވީރު 3 ޖަހާއިރު."
+  },
+  {
+    "id": "442fc6dd-b015-4bea-860f-a187d2987e4a",
+    "english": "Can you recommend a good restaurant?",
+    "dhivehi": "ރަނގަޅު ރެސްޓޯރަންޓެއް ބުނެދެވިދާނެތޯ؟"
+  },
+  {
+    "id": "cc8c8394-269c-4378-9bb6-d8681aad4f1b",
+    "english": "I'm allergic to peanuts.",
+    "dhivehi": "އަހަރެންނަކީ ބަދަނަށް އެލަރޖީ ހުންނަ މީހެއް."
+  },
+  {
+    "id": "9136ad35-8647-4594-940f-468cd67c047b",
+    "english": "The flight was delayed due to bad weather.",
+    "dhivehi": "މޫސުން ގޯސްވުމުގެ ސަބަބުން ފްލައިޓް ލަސްވެއްޖެ."
+  },
+  {
+    "id": "d8e5204b-6b72-4731-884c-ddaa24b5a3d4",
+    "english": "How much does this cost?",
+    "dhivehi": "މީގެ އަގަކީ ކިހާވަރެއް؟"
+  },
+  {
+    "id": "70a911a4-ebcb-4011-83d6-7c68ae704e3a",
+    "english": "I don't understand Dhivehi very well.",
+    "dhivehi": "އަހަރެންނަކަށް ދިވެހި ރަނގަޅަކަށް ނޭނގޭ."
+  },
+  {
+    "id": "b8d386e8-31fa-4c39-b605-8b17d710ba02",
+    "english": "Can you help me, please?",
+    "dhivehi": "އަހަންނަށް އެހީތެރި ވެދެވިދާނެތޯ؟"
+  },
+  {
+    "id": "c1a2343e-40b1-4eb2-8687-e16338b60974",
+    "english": "The Maldives is known for its beautiful beaches.",
+    "dhivehi": "ދިވެހިރާއްޖެ މަޝްހޫރުވެފައިވަނީ ރީތި ގޮނޑުދޮށްތަކަށް."
+  },
+  {
+    "id": "2b5bce30-1295-4291-b0bc-10466cbe991a",
+    "english": "Where is the nearest hospital?",
+    "dhivehi": "އެންމެ ކައިރީގައި ހުރި ހޮސްޕިޓަލަކީ ކޮބާ؟"
+  },
+  {
+    "id": "c31d0a2c-8c04-4d45-8808-e6e4159549e1",
+    "english": "I love eating fish curry.",
+    "dhivehi": "އަހަރެން ވަރަށް ބޮޑަށް މަސް ރިހަ ކާހިއްވޭ"
+  },
+  {
+    "id": "40febc70-6346-4996-864e-d7a511f97820",
+    "english": "The sun is shining brightly today.",
+    "dhivehi": "މިއަދު އިރު ވަރަށް އަލިގަދަ"
+  },
+  {
+    "id": "0391d5fc-1a72-4909-9c4a-a642778e287c",
+    "english": "What's your name?",
+    "dhivehi": "ކަލޭގެ ނަމަކީ ކޮބާ؟"
+  },
+  {
+    "id": "d003b303-cebb-4162-a369-8322fd35202d",
+    "english": "The Maldives is vulnerable to tsunamis",
+    "dhivehi": "ދިވެހިރާއްޖެއަކީ ސުނާމީގެ ނުރައްކަލަށް ހުށަހެޅިފައިވާ ޤައުމެކެވެ"
+  },
+  {
+    "id": "c94e9301-ad80-4afb-9390-96297c4bf3b4",
+    "english": "Maldivian traditional dress for women is called Libaas",
+    "dhivehi": "ދިވެހި އަންހެނުންގެ ސަޤާފީ ހެދުމަށް ކިޔަނީ ލިބާހެވެ"
+  },
+  {
+    "id": "dbf9cdec-6c46-4814-bf77-04a9b1c78413",
+    "english": "The Maldives has a 100% Muslim population",
+    "dhivehi": "ދިވެހިރާއްޖޭގެ އާބާދީގެ 100 އިންސައްތައަކީ މުސްލިމުންނެވެ"
+  },
+  {
+    "id": "f7433d46-45a7-4172-9351-04df187b0a2d",
+    "english": "The Maldives is famous for its overwater bungalows",
+    "dhivehi": "ދިވެހިރާއްޖެ މަޝްހޫރުވެފައިވަނީ ފެން މަތީގައި ހުންނަ ބަންގަލޯތަކަށެވެ"
+  },
+  {
+    "id": "e46c2577-85e4-4e68-97f4-d86d98b729e8",
+    "english": "The Maldives has a tropical monsoon climate",
+    "dhivehi": "ދިވެހިރާއްޖެއަކީ ހޫނު މޫސުމެއް އޮންނަ ޤައުމެކެވެ"
+  },
+  {
+    "id": "dbd19787-6cf1-4a67-ab5f-06db1dd6ab22",
+    "english": "The Maldives is vulnerable to climate change",
+    "dhivehi": "ދިވެހިރާއްޖެއަކީ މޫސުމަށް އަންނަ ބަދަލުތަކުގެ ނުރައްކަލަށް ހުށަހެޅިފައިވާ ޤައުމެކެވެ"
+  },
+  {
+    "id": "e5231904-9356-4133-b8dc-686c6b1ec237",
+    "english": "Tourism is the largest economic industry in Maldives",
+    "dhivehi": "ފަތުރުވެރިކަމަކީ ދިވެހިރާއްޖޭގެ އެންމެ ބޮޑު އިޤްތިޞާދީ ސިނާއަތެވެ"
+  },
+  {
+    "id": "cf0e970c-bb6f-471a-9bbc-f42d841d51c5",
+    "english": "Good morning",
+    "dhivehi": "ބާއްޖަވެރި ހެނދުނެއް"
+  },
+  {
+    "id": "d059ebfc-581e-46b9-b10f-8fd4bd504f18",
+    "english": "How are you?",
+    "dhivehi": "ކިހިނެއް؟"
+  },
+  {
+    "id": "cc194229-8848-428f-b8e1-524c8bbd477d",
+    "english": "The Maldives has a strong tradition of environmental conservation",
+    "dhivehi": "ދިވެހިރާއްޖޭގައި ތިމާވެށި ހިމާޔަތްކުރުމުގެ ވަރުގަދަ ސަޤާފަތެއް ވެއެވެ."
+  },
+  {
+    "id": "f3d13e99-1c53-493a-80f2-3fd8bfa6c7fb",
+    "english": "The Maldives has a unique system of atoll administration",
+    "dhivehi": "ދިވެހިރާއްޖޭގައި އަތޮޅުތައް ހިންގުމުގެ ތަފާތު ނިޒާމެއް ވެއެވެ."
+  },
+  {
+    "id": "e53d7cb8-9a96-4fa9-bafc-dad1f2509b8b",
+    "english": "Maldivian traditional calendar is based on lunar cycles",
+    "dhivehi": "ދިވެހި ސަޤާފީ ކަލަންޑަރު ބިނާވެފައިވަނީ ހަނދުގެ ދައުރުވުމުގެ މައްޗަށެވެ"
+  },
+  {
+    "id": "cfe78ea2-34a9-4a80-ba7c-a65f9363d7eb",
+    "english": "The Maldives has a strong culture of hospitality",
+    "dhivehi": "ދިވެހިރާއްޖޭގައި މެހެމާންދާރީގެ ވަރުގަދަ ސަގާފަތެއް ވެއެވެ."
+  },
+  {
+    "id": "d352dd77-ad40-428d-9223-de4bd70430de",
+    "english": "Maldivian traditional fishing methods include pole and line fishing",
+    "dhivehi": "ދިވެހިންގެ ސަޤާފީ މަސްވެރިކަމުގެ ބާވަތަކީ ދޮށީގެ މަަސްވެރިކަމެވެ."
+  },
+  {
+    "id": "fefc9779-9806-4e7c-8722-932aaa38c3d3",
+    "english": "Maldivian traditional houses were built on coral stone foundation",
+    "dhivehi": "ދިވެހި ސަޤާފީ ގެތަކުގެ ބިންގާ އަޅާއުޅުނީ ހިރި ގަލުންނެވެ."
+  },
+  {
+    "id": "c9644b27-0ecc-41f9-a191-8d7019f480f0",
+    "english": "Maldivian traditional dress for men includes feyli and libaas",
+    "dhivehi": "ދިވެހި ފިރިހެނުންގެ ސަޤާފީ ހެދުންތަކުގެ ތެރޭގައި ފޭލި އާއި ލިބާސް ހިމެނެއެވެ."
+  },
+  {
+    "id": "f68a122f-1c60-4cae-9e17-f2a022f47061",
+    "english": "The Maldives has a rich underwater cultural heritage",
+    "dhivehi": "ދިވެހިރާއްޖޭގައި ފެނުއަޑީގެ މުއްސަނދި ސަޤާފީ ތަރިކައެއް އެބައޮތެވެ"
+  },
+  {
+    "id": "e391e867-e5f0-46c5-a8b8-a7d3d12c43c0",
+    "english": "The Maldives is a member of the United Nations",
+    "dhivehi": "ދިވެހިރާއްޖެއަކީ އދ ގެ މެމްބަރު ޤައުމެކެވެ"
+  },
+  {
+    "id": "ff39ec54-80be-42cd-9994-873115392e69",
+    "english": "The Maldives is part of the SAARC countries",
+    "dhivehi": "ދިވެހިރާއްޖެއަކީ ސާކް ޤައުމުތަކުގެ ތެރެއިން ޤައުމެކެވެ"
+  },
+  {
+    "id": "c594764d-3cce-4451-8c00-bdbe4892f3e0",
+    "english": "Maldivian culture is influenced by South Asian and Arab traditions",
+    "dhivehi": "ދިވެހި ސަގާފަތަށް ދެކުނު އޭޝިއާ އަދި ޢަރަބި އާދަކާދަތަކުގެ އަސަރު ކޮށްފައިވެއެވެ"
+  },
+  {
+    "id": "f63da2c9-ef7c-4a3d-be5b-71617bdffe89",
+    "english": "The Maldivian rupiyaa is the currency of Maldives",
+    "dhivehi": "ދިވެހި ރުފިޔާއަކީ ދިވެހިރާއްޖޭގެ ފައިސާއެވެ"
+  },
+  {
+    "id": "f3ffdc53-001e-4ff9-9555-6fcb1b3cc22b",
+    "english": "Fishing is an important industry in Maldives",
+    "dhivehi": "މަސްވެރިކަމަކީ ދިވެހިރާއްޖޭގެ މުހިންމު ސިނާޢަތެކެވެ"
+  },
+  {
+    "id": "c061d5be-0604-48f0-a9b4-79ca051ffaaf",
+    "english": "Maldives is known for its beautiful beaches",
+    "dhivehi": "ދިވެހިރާއްޖެ މަޝްހޫރުވެފައިވަނީ އެތަނުގެ ރީތި ގޮނޑުދޮށްތަކަށެވެ"
+  },
+  {
+    "id": "be12a544-15ae-40c5-b975-42246949e2c5",
+    "english": "The capital city of Maldives is Male'",
+    "dhivehi": "ދިވެހިރާއްޖޭގެ ވެރިރަށަކީ މާލެއެވެ"
+  },
+  {
+    "id": "c6075bdc-2f4f-416d-9603-66ddff236f5c",
+    "english": "The Maldives has a rich history.",
+    "dhivehi": "ދިވެހިރާއްޖެއަށް މުއްސަނދި ތާރީޚެއް ލިބިފައިވެއެވެ."
+  },
+  {
+    "id": "d4f8b72b-1cd0-4960-846c-e915d04ee0fa",
+    "english": "Drink plenty of water every day.",
+    "dhivehi": "ކޮންމެ ދުވަހަކުވެސް ގިނައިން ފެން ބޯށެވެ."
+  },
+  {
+    "id": "b0f07f9e-1473-4a7a-9778-c4bb5cd85624",
+    "english": "Hello, how are you?",
+    "dhivehi": "ސަލާމް، ކިހިނެއްތޯ؟"
+  },
+  {
+    "id": "ea382425-47e5-45ba-a003-fb3e71d7d87e",
+    "english": "The national flower of the Maldives in the Pink Rose",
+    "dhivehi": "ދިވެހިރާއްޖޭގެ ޤައުމީ މަލަކީ ފިޔާތޮށި ފިނިފެން މަލެވެ."
+  }
+]
